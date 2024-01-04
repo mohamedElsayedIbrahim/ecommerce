@@ -1,5 +1,5 @@
-import connectApi from "../Modules/connectApi.js";
-import template from "../Modules/templete.js";
+import connectApi from "../modules/connectApi.js";
+import template from "../modules/templete.js";
 
 (async function(){
 if (document.getElementById('product')) {
